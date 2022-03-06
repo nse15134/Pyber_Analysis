@@ -3,3 +3,4 @@ The purpose of this analysis is to explore and analyze Fare trends ($) by city t
 
 ## Results
 
+![Summary](https://user-images.githubusercontent.com/98061420/156940110-182b1898-471a-4cb0-ad18-631ab9a4379f.PNG)
