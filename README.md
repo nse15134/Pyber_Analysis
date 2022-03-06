@@ -6,3 +6,5 @@ The purpose of this analysis is to explore and analyze Fare trends ($) by city t
 ![Summary](https://user-images.githubusercontent.com/98061420/156940110-182b1898-471a-4cb0-ad18-631ab9a4379f.PNG)
 
 We can see from above that the rural city type is in last place in both user to driver ratio as well as fares.  They are in last place in all fare categories.  Total fares is the lowest but fare by ride and fare by drvier are the highest of the 3 city types.  Urban was the best performing city type with the highest total of fares, as well as highest numbers of rides and drivers.
+![Png Image](https://user-images.githubusercontent.com/98061420/156940284-58237ab6-52fd-4f9c-a0b9-ac2f21beca27.PNG)
+We can see from above that the data is fairly consistent for each city type as we roll through the year.  The order stays the same from January until April+. There are small variances here and there but we can clearly understand our best/middle/worst performing cities by both $ and counts.
